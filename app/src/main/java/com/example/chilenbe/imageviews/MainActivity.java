@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
                 myTextView.setText("Ovo je jabuka,neb' vjerov'o");
 
                 Log.d(TAG, "Hello from here");
-                Log.v(TAG, "Another Hello!");
+                Log.v(TAG, "Another Hello!, test");
 
             }
         });
